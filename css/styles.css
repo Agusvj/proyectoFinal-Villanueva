@@ -88,6 +88,7 @@ nav {
   border-color: #d7ad5d;
 }
 
+
 .brd {
   border: 1px;
   border-color: #d7ad5d;
@@ -161,19 +162,6 @@ select {
   border-width: 2px;
 }
 
-#myModal{
-  border: 3px #b98930;
-  border-style: solid;
-  position: fixed;
-  top: 25%;
-  right: 35%;
-  width: fit-content;
-  padding: 50px;
-  background-color: white;
-  color: black;
-  display: none;
-  transition: all 0.5s ease-in-out;
-}
 
 .botonSumaResta {
   background-color: #d7ad5d;
@@ -187,4 +175,14 @@ select {
   width: 20px;
   margin-left: 5px;
   margin-right: 5px;
+}
+
+.listaVerificacion {
+  list-style: none;
+  font-weight: bold;
+}
+
+.spanLi{
+  text-decoration: underline;
+  font-weight: normal;
 }
