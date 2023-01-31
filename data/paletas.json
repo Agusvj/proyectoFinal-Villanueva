@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre":"Conqueror Gold", "descripcion":"Se el rey o reina de las canchas con nuestra Conqueror Gold, nuestra paleta de formato diamante, Conquista el deporte que nos apasiona con la mejor pieza fabricada hasta el momento, la mas alta tecnologia y con una estetica invaluable", "precio":140000, "categoria":"paletas", "imagen":"conqueror-gold.png"},
+    {"id":2, "nombre":"Kings Seal", "descripcion":"Demuestra tu linaje con la Kings Seal, nuestra paleta de control por excelencia, descubre nuevas facetas de tu juego con la elegancia que nos caracteriza, la mas elegida por nuestros clientes","precio":100000, "categoria":"paletas", "imagen":"kings-seal.png"},
+    {"id":3, "nombre":"Golden Tear", "descripcion":"Elegante, potente y con acabados futuristas, Golden Tear es nuestra paleta de formato lagrima, para quienes buscan el equilibrio perfecto entre ataque y defensa.", "precio":100000, "categoria":"paletas", "imagen":"golden tear.png"},
+    {"id":4, "nombre":"The Heir", "descripcion":"Los herederos al trono deben tener las mejores herramientas, The Heir es nuestra paleta para principiantes en el deporte, con la elegancia que nos caracteriza logramos una paleta manejable, de tacto blando para aquellos que comienzan su camino. El trono te espera", "precio":70000, "categoria":"paletas", "imagen":"the-heir.png"}
+]

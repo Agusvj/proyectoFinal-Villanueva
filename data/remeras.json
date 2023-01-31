@@ -1,0 +1,6 @@
+[
+    {"id":5, "nombre":"Royal Suit", "descripcion":"Una prenda de la realeza, con las ultimas tecnologias de dry-fit, para que estes comodo durante todo el partido, personalizables con nombre y logos para sponsors", "precio":10000, "categoria":"remeras", "imagen":"royal-suit.png"},
+    {"id":6, "nombre":"Fusion Tunic", "descripcion":"Nuestro prototipo de remera fusionada, el equilibrio con tonalidades doradas, con las ultimas tecnologias de dry-fit, NO personalizable", "precio":7000, "categoria":"remeras", "imagen":"fusion-tunic.png"},
+    {"id":7, "nombre":"Conquerors", "descripcion":"Nuestra presentacion de remera para parejas de padel, para aquellos que jugaran juntos, el combo trae una remera blanca con detalles dorados y otra en negro con detalles dorados, logren su mejor version con estas remeras personalizables", "precio":16000, "categoria":"remeras", "imagen":"conquerors.png"},
+    {"id":8, "nombre":"Combo Legacy", "descripcion":"Un combo de tres prendas para nuestros mas confiables y exquisitos clientes, gracias por vestir nuestros colores", "precio":18000, "categoria":"remeras", "imagen":"combo-legacy.png"}
+]

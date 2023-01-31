@@ -1,0 +1,6 @@
+[
+    {"id":9, "nombre":"Royal Running", "descripcion":"Nuestra zapatilla para el deporte diario, comodas y resistentes, para gimnasio o correr", "precio":20000, "categoria":"zapatillas", "imagen":"royal-running.png"},
+    {"id":10, "nombre":"Ruler Clinical", "descripcion":"Nuestra zapatilla de tobillo alto para resguardar mejor las articulaciones dañadas, para los que quieran seguir disfrutando el deporte", "precio":25000, "categoria":"zapatillas", "imagen":"ruler-clinical.png"},
+    {"id":11, "nombre":"Conqueror Hybrid", "descripcion":"Nuestra zapatilla deportiva para deportes indoor, padel, futsal o volley. Testeadas en multiples superficies y por reconocidos atletas, 100% confiables", "precio":25000, "categoria":"zapatillas", "imagen":"conqueror-hybrid.png"},
+    {"id":12, "nombre":"Conqueror Court", "descripcion":"Nuestra zapatilla dedicada al PADEL, con nueva tecnologia y material kevlar son mas resistentes que nunca, aptas para cualquier superficie, la suela viene en diferentes formatos (cemento, alfombra o hibrida)", "precio":37000, "categoria":"zapatillas", "imagen":"conqueror-court.png"}
+]
