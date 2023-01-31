@@ -18,7 +18,7 @@ document.getElementById("irCheckout").addEventListener("click", function () {
   let listaPrecio = sumaCarrito();
 
   if (listaPrecio > 0) {
-    document.location.href = '../checkout.html';
+    document.location.href = 'checkout.html';
   } else {
     swal("Oops!", "No hay productos en el carrito", "error");
   }
