@@ -10,7 +10,7 @@ const cargarProductosLS = (clave) => {
 }
 
 const fetchData = (clave) => {
-    fetch(`../data/${clave}.json`)
+    fetch(`./${clave}.json`)
     .then((res) => res.json())
     .then((data) => {
         guardarProductosLS(clave, data);
