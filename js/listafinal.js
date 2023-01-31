@@ -27,7 +27,7 @@ function finCompra() {
 	vaciarCart();
 	swal("Compra finalizada!", "Espero disfrutes nuestro producto!", "success")
 		.then((ok) => {
-			window.location.href = "../index.html";
+			window.location.href = "index.html";
 		});
 }
 
