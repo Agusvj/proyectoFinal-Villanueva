@@ -146,9 +146,8 @@ const renderProductosC = () => {
  * Main
  */
 
-document.getElementById("empty-button").addEventListener("click", vaciarCart);
-
 if(document.getElementById("aside-button") !== null) {
 	renderBotonCart();
 	renderProductosC();
+	document.getElementById("empty-button").addEventListener("click", vaciarCart);
 }
