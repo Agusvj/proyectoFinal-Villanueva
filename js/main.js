@@ -49,9 +49,3 @@ const renderProductos = (clave) => {
   }
 }
 
-/**
- * Main
- */
-renderProductos("zapatillas");
-renderProductos("paletas");
-renderProductos("remeras");

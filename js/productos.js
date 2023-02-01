@@ -14,6 +14,7 @@ const fetchData = (clave) => {
     .then((res) => res.json())
     .then((data) => {
         guardarProductosLS(clave, data);
+        renderProductos(clave);
     })
 }
 
